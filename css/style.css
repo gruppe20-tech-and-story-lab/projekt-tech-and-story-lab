@@ -4,4 +4,57 @@
 }
 header{
     background-color:#233249 ;
+    text-decoration: none;
+}
+.categorieslist{
+    background-color:E782A9 ;
+}
+/* .information {
+    background-color: #233249 ;
+} */
+
+.navbar {
+    background-color: #233249;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+h1 {
+    font-family: helvetica neue bold;
+    font-size: 66px;
+    color: #233249;
+}
+
+h2 {
+    font-family: helvetica neue bold;
+    font-size: 26px;
+    color: #233249;
+}
+
+h4 {
+    font-family: helvetica neue bold;
+    color: #233249;
+}
+
+h5 {
+    font-family: helvetica neue bold;
+    color: #233249;
+}
+
+p {
+    font-family: helvetica neue;
+    font-size: 16px;
+    color: #233249;
+}
+
+@font-face {
+    font-family: helvetica neue bold;
+    src: url(../fonts/Helvetica\ Neue\ LT\ Std\ 77\ Bold\ Condensed.otf);
+}
+
+@font-face {
+    font-family: helvetica neue;
+    src: url(../fonts/Helvetica\ Neue\ LT\ Std\ 55\ Roman.otf);
 }

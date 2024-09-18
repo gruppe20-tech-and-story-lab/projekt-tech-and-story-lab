@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+.hero-image {
+  background-image: url("../img/heroimg_tslab.webp");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+main {
+    padding: 5ch;
+}
+
+.introtext {
+    padding-top: 5ch;
+    padding-bottom: 5ch;
+}
+
+.introtext p {
+    margin-top: 1ch;
+}
+
+.information {
+    display: flex;
+    padding-top: 5ch;
+    padding-right: 5ch;
+    padding-bottom: 5ch;
+    gap: 20ch;
+}
+
+.loaninfo {
+    padding-bottom: 5ch;
+}
+
+.contact {
+    display: flex;
+    gap: 20ch;
+    flex-wrap: wrap;
+}
+
+.contact img {
+    height: 180px;
+    width: 180px;
+}
+
+.contact1 {
+    padding-right: 2ch;
+    padding-top: 2ch;
+    margin-left: 0;
+
+}
+
+.contact2 {
+    padding: 2ch;
+}
+
+.contact3 {
+    padding: 2ch;
+}
+
