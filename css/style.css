@@ -1,12 +1,7 @@
 *{
-    background-color: F4F4F4;
-}
-.categorieslist{
-    background-color:E782A9 ;
-}
-.information{
-    background-color:CCCCCC ;
+    box-sizing: border-box;
+    background-color: #F4F4F4;
 }
 header{
-    background-color:E782A9 ;
+    background-color:#233249 ;
 }
