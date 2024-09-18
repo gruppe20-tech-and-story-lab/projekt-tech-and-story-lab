@@ -6,6 +6,10 @@
 .podcastphoto{
     height: 611px;
     width: 689px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    object-fit: cover;
 }
 .reserverbox{
     background-color: #233249;
