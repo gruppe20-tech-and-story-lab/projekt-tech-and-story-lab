@@ -25,6 +25,7 @@ body, html {
 
 .introtext p {
     margin-top: 1ch;
+    line-height: 1.5;
 }
 
 .information {
