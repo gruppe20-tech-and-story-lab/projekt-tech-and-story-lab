@@ -24,7 +24,7 @@ body, html {
 }
 
 .introtext p {
-    margin-top: 1ch;
+    margin-top: 2ch;
     line-height: 1.5;
 }
 
@@ -44,6 +44,14 @@ body, html {
     padding-left: 5ch;
 }
 
+.productimages img {
+    height: 360px;
+    width: 360px;
+    padding: 3ch;
+    border-radius: 50px;
+
+}
+
 .contacth1 {
     padding-left: 5ch;
 }
@@ -59,6 +67,7 @@ body, html {
     gap: 2ch;
     padding: 2ch;
     padding-top: 10ch;
+    justify-content: center;
 }
 
 .categorieslist img {
