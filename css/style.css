@@ -1,17 +1,19 @@
 *{
     box-sizing: border-box;
-    background-color: #F4F4F4;
 }
 header{
     background-color:#233249 ;
     text-decoration: none;
 }
 .categorieslist{
-    background-color:E782A9 ;
+    background-color:#233249 ;
 }
-/* .information {
-    background-color: #233249 ;
-} */
+
+a {
+    color: white;
+    font-family: helvetica neue;
+    text-decoration: none;
+}
 
 .navbar {
     background-color: #233249;
@@ -45,7 +47,7 @@ h5 {
 
 p {
     font-family: helvetica neue;
-    font-size: 16px;
+    font-size: 15px;
     color: #233249;
 }
 

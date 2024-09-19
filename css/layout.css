@@ -17,15 +17,10 @@ body, html {
   position: relative;
 }
 
-
-
-main {
-    padding: 5ch;
-}
-
 .introtext {
     padding-top: 5ch;
     padding-bottom: 5ch;
+    padding-left: 5ch;
 }
 
 .introtext p {
@@ -44,10 +39,34 @@ main {
     padding-bottom: 5ch;
 }
 
+.infobackground {
+    padding-left: 5ch;
+}
+
+.contacth1 {
+    padding-left: 5ch;
+}
+
 .contact {
     display: flex;
     gap: 20ch;
     flex-wrap: wrap;
+}
+
+.categorieslist {
+    display: flex;
+    gap: 2ch;
+    padding: 2ch;
+    padding-top: 10ch;
+}
+
+.categorieslist img {
+    height: 100%;
+    max-width: 50%;
+}
+
+.contact {
+    padding-left: 5ch;
 }
 
 .contact img {
